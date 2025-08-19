@@ -17,7 +17,7 @@ In the initial section, we will delve into a comprehensive notebook demonstratin
 
 ### Part 2: Building a User-Friendly Interface
 
-The second part is all about interaction. We'll guide you on building a visually appealing interface that facilitates the interaction with the Gemini model. Throughout this section, you'll gain insights into:
+The second part is all about interaction. Guiding you on building a visually appealing interface that facilitates interaction with the Gemini model. Throughout this section, you'll gain insights into:
 
 - Creating a user-friendly interface using Chainlit.
 
